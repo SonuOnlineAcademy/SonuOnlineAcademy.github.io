@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notes Page</title>
+    <link rel="stylesheet" href="./css/notes.css">
+    <!-- Font Awesome CDN for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        .navigation-buttons {
+            position: fixed;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 999;
+        }
+        .navigation-buttons button {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Notes Page</h1>
+        <div class="navigation-buttons">
+            <button onclick="goBackward()" disabled><i class="fas fa-arrow-left"></i> Backward</button>
+            <button onclick="goForward()">Forward <i class="fas fa-arrow-right"></i></button>
+        </div>
+        <div class="classes" id="class-section">
+            <h2>Classes</h2>
+            <ul id="class-list">
+                <li><a href="#" onclick="showSubjects('6')">Class 6</a></li>
+                <li><a href="#" onclick="showSubjects('7')">Class 7</a></li>
+                <li><a href="#" onclick="showSubjects('8')">Class 8</a></li>
+                <li><a href="#" onclick="showSubjects('9')">Class 9</a></li>
+                <li><a href="#" onclick="showSubjects('10')">Class 10</a></li>
+                <li><a href="#" onclick="showSubjects('11')">Class 11</a></li>
+                <li><a href="#" onclick="showSubjects('12')">Class 12</a></li>
+            </ul>
+        </div>
+        <div class="subjects" id="subject-section" style="display: none;">
+            <h2>Subjects</h2>
+            <ul id="subject-list">
+                <!-- Subjects will be dynamically populated based on user selection -->
+            </ul>
+        </div>
+        <div class="chapters" id="chapter-section" style="display: none;">
+            <h2>Chapters</h2>
+            <ul id="chapter-list">
+                <!-- Chapters will be dynamically populated based on user selection -->
+            </ul>
+        </div>
+        <div class="content" id="content-section" style="display: none;">
+            <h2>Content</h2>
+            <div class="photos">
+                <img src="#" alt="Photo 1">
+                <img src="#" alt="Photo 2">
+            </div>
+            <div class="pdf">
+                <a href="#" id="pdf-link">Download PDF</a>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/notes.js"></script>
+
+    <script>
+        function goBackward() {
+            var currentSection = document.querySelector('.container > *:not([style="display: none;"])');
+            var previousSection = currentSection.previousElementSibling;
+            currentSection.style.display = 'none';
+            previousSection.style.display = 'block';
+            updateNavigationButtons(previousSection);
+        }
+
+        function goForward() {
+            var currentSection = document.querySelector('.container > *:not([style="display: none;"])');
+            var nextSection = currentSection.nextElementSibling;
+            currentSection.style.display = 'none';
+            nextSection.style.display = 'block';
+            updateNavigationButtons(nextSection);
+        }
+
+        function updateNavigationButtons(currentSection) {
+            var backButton = document.querySelector('.navigation-buttons button:first-child');
+            var forwardButton = document.querySelector('.navigation-buttons button:last-child');
+
+            if (currentSection.id === 'class-section') {
+                backButton.disabled = true;
+            } else {
+                backButton.disabled = false;
+            }
+
+            if (currentSection.id === 'content-section') {
+                forwardButton.disabled = true;
+            } else {
+                forwardButton.disabled = false;
+            }
+        }
+    </script>
+</body>
+</html>

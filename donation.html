@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/donation.css">
+    <link rel="icon" href="favicon.png">
+    <title>Support My Project</title>
+</head>
+<body>
+    <header>
+        <header>
+            <a href="index.html"><img src="./assets/header/header.png" alt="Header Image"></a>
+        <h1>Support Project</h1>
+    </header>
+    
+    <section class="content">
+        <p>Dear supporters,</p>
+        <p>Creating and maintaining Android Motorola projects takes time, effort, and resources (Not server). Your contribution can make a significant impact on the development and improvement of these projects. .</p>
+        
+        <p>Whether big or small, every donation is appreciated. Thank you for being a part of this journey!</p>
+
+        <div class="donate-buttons">
+            <button id="paypal-btn" onclick="showPopup('PayPal')">Donate via PayPal</button>
+            <button id="upi-btn" onclick="showPopup('UPI')">Donate via UPI</button>
+            <button id="thanks-btn" onclick="showPopup('By Heart ❤️')">Or just Say thanks in PM 😉</button>
+        </div>
+    </section>
+
+
+    <div class="popup" id="popup">
+        <div class="popup-content">
+            <span class="close-btn" onclick="closePopup()">&times;</span>
+            <h2>Thank You for Your Donation!</h2>
+            <p>Your support means a lot to me. Here are the details for your contribution:</p>
+            <p id="payment-method"></p>
+            <p id="payment-address"></p>
+            <p id="telegram-id">Contact me on Telegram: <strong>@Anandbizuka</strong></p>
+        </div>
+    </div>
+
+    <script src="./js/donation.js"></script>
+</body>
+</html>
