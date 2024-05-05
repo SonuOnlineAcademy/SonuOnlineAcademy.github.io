@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #0777a2;
+    /*background-image: url('./page-bg/devices.jpg');*/
+}
+
+h1 {
+color: rgb(0, 69, 99);
+margin: 10px;
+background-color: #1ca9c8;
+}
+
+
+.content-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #102c41;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(236, 240, 240, 0.1);
+    max-width: 600px;
+    width: 100%;
+    margin: 300px auto 10px;
+}
+
+.maintainer {
+    background-color: #1ca9c8;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.maintainer img {
+    width: 80px;
+    height: 80px;
+    border-radius: 30%;
+    margin-bottom: 10px;
+}
+
+.maintainer a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.device-label {
+    color: #c4f47c;
+}
+
+@media (max-width: 600px) {
+    .content-container {
+        margin: 10px auto;
+    }
+
+    .maintainer img {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+header img {
+    width: 200px;
+    height: 120px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: transparent;
+    max-width: 30%;
+    margin-top: 10px;
+    color: #1ca9c8;
+}

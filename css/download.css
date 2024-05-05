@@ -1,0 +1,164 @@
+/* Desktop styles */
+@media only screen and (min-width: 768px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #0a86b8;
+        color: #e9e1e1;
+        text-align: left;
+        /*background-image: url('./page-bg/download.jpg');*/
+    }
+    
+    header {
+        text-align: center;
+        padding: 5px;
+        background-color: transparent;
+        color: #fff;
+        border-radius: 20px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    
+    section {
+        max-width: 600px;
+        margin: 20px auto;
+        background-color: #252930;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgb(231, 20, 20);
+    }
+    
+    footer {
+        text-align: center;
+        padding: 10px;
+        background-color: transparent;
+        color: #c9c9c9;
+    }
+    
+    .download-button {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-decoration: none;
+        background-color: #007bff;
+        color: #fff;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+    
+    .download-button:hover {
+        background-color: #0056b3;
+    }
+    
+    h2 {
+        color: #00e1ff;
+        border-bottom: 2px solid #275484;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+    }
+    
+    ol {
+        padding-left: 20px;
+    }
+    
+    li {
+        margin-bottom: 10px;
+    }
+    
+    .download-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    
+    header img {
+        max-width: 20%;
+        height: auto;
+        border-radius: 20px;
+        padding: 0;
+    }
+}
+
+/* Mobile styles */
+@media only screen and (max-width: 767px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #0a86b8;
+        color: #e9e1e1;
+        text-align: left;
+        /*background-image: url('download.jpg');*/
+    }
+    
+    header {
+        text-align: center;
+        padding: 5px;
+        background-color: transparent;
+        color: #fff;
+        border-radius: 20px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    
+    section {
+        max-width: 600px;
+        margin: 20px auto;
+        background-color: #252930;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgb(231, 20, 20);
+    }
+    
+    footer {
+        text-align: center;
+        padding: 10px;
+        background-color: transparent;
+        color: #c9c9c9;
+    }
+    
+    .download-button {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-decoration: none;
+        background-color: #007bff;
+        color: #fff;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+    }
+    
+    .download-button:hover {
+        background-color: #0056b3;
+    }
+    
+    h2 {
+        color: #00e1ff;
+        border-bottom: 2px solid #275484;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+    }
+    
+    ol {
+        padding-left: 20px;
+    }
+    
+    li {
+        margin-bottom: 10px;
+    }
+    
+    .download-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    
+    header img {
+        max-width: 90%;
+        height: auto;
+        border-radius: 20px;
+        padding: 0;
+    }
+
+}

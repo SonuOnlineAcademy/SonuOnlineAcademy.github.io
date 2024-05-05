@@ -1,0 +1,174 @@
+/* Desktop styles */
+@media only screen and (min-width: 768px) {
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: #0a86b8;
+        color: #dcd0d0;
+        /*background-image: url('./page-bg/about-myui.jpg');*/
+    }
+    
+    header {
+        text-align: center;
+        padding: 10px;
+        background-color: transparent;
+        max-width: 30%;
+        margin-top: 10px;
+    }
+    
+    header img {
+        max-width: 70%;
+        height: auto;
+        border-radius: 30px;
+        position: justify;
+        background-color: transparent;
+        margin-left: 595px;
+    }
+    
+    
+    
+    footer {
+        text-align: center;
+        padding: 10px;
+        background: #4d4c4c;
+        color: #fff;
+    }
+    
+    h1 {
+        color: rgb(224, 231, 234);
+        text-align: center;
+        background-color: rgb(58, 50, 50);
+        border-radius: 20px;
+        padding: 10px;
+        
+    }
+    
+    h2 {
+        color: rgb(232, 233, 238);
+        background-color: transparent;
+    }
+    
+    ul {
+        list-style-type: square;
+        padding-left: 20px;
+    }
+    
+    .header-container {
+        background: transparent;
+        padding: 10px;
+        text-align: justify;
+        color: #f6f3f3;
+        margin-left: 6px;
+    }
+    
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        background-color: firebrick;
+    }
+    
+    .slider {
+        width: 20%;
+        margin: 2px auto;
+        
+    }
+
+    section {
+        max-width: 600px;
+        margin: 20px auto;
+        background-color: #252930;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgb(255, 0, 0);
+        text-align: justify;
+    }
+}
+
+/* mobile screen */
+@media only screen and (max-width: 768px) {
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: #0a86b8;
+        color: #dcd0d0;
+        /*background-image: url('./dark-bg.jpg');*/
+    }
+    
+    header {
+        text-align: center;
+        padding: 10px;
+        background-color: transparent;
+        max-width: 50%;
+        margin-top: 10px;
+    }
+    
+    header img {
+        max-width: 120%;
+        height: auto;
+        border-radius: 30px;
+        position: justify;
+        background-color: transparent;
+        margin-left: 70px;
+    }
+    
+    
+    footer {
+        text-align: center;
+        padding: 10px;
+        background: #4d4c4c;
+        color: #fff;
+    }
+    
+    h1 {
+        color: rgb(255, 255, 255);
+        text-align: center;
+        background-color: rgb(58, 50, 50);
+        border-radius: 20px;
+        padding: 10px;
+        
+    }
+    
+    h2 {
+        color: rgb(232, 233, 238);
+        background-color: transparent;
+    }
+    
+    ul {
+        list-style-type: square;
+        padding-left: 20px;
+    }
+    
+    .header-container {
+        background: transparent;
+        padding: 10px;
+        text-align: justify;
+        color: #f6f3f3;
+        margin-left: 6px;
+    }
+    
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        background-color: firebrick;
+    }
+    
+    .slider {
+        width: 70%;
+        margin: 2px auto;
+        
+    }
+    section {
+        max-width: 600px;
+        margin: 20px auto;
+        background-color: #252930;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgb(21, 255, 251);
+    }
+}
+
+
