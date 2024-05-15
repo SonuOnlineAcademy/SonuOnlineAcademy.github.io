@@ -1,0 +1,34 @@
+{
+  "teachers": [
+    {
+      "name": "Prashant tiwari",
+      "image": "assets/prashantsir.png",
+      "description": "Learn from the best Banker's UnAcademy lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR4VHsceopVQtj73aJ0idtpI"
+    },
+    {
+      "name": "PW Only IAS",
+      "image": "assets/pw.png",
+      "description": "Explore the depths of knowledge with PW.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLXLsXwBXH6BnuWQumt_YmmdkaQodDaA7l"
+    },
+    {
+      "name": "Gyan Bindu",
+      "image": "assets/gyanbindu.png",
+      "description": "Explore the depths of knowledge with Gyan Bindu.",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q"
+    },
+    {
+      "name": "Kautilya",
+      "image": "assets/kautilya.png",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya.",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+    },
+    {
+      "name": "Utkarsh",
+      "image": "assets/utkarsh.png",
+      "description": "Elevate your learning with Utkarsh.",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+    }
+  ]
+}
