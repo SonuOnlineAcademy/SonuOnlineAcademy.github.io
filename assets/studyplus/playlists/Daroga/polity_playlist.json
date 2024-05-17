@@ -1,10 +1,10 @@
 {
   "teachers": [
     {
-      "name": "Prashant Dhawan sir",
+      "name": "Rojgar with Ankit",
       "image": "assets/prashantsir.png",
-      "description": "Learn from the best Khan Academy lectures.",
-      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR4kUxscwYwYGEmXi4D9Hro3"
+      "description": "Learn from the best Rojgar with Ankit lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji
     },
     {
       "name": "Gyan Bindu",
