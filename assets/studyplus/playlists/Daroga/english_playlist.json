@@ -5,14 +5,14 @@
       "image": "assets/prashantsir.png",
       "description": "Description of Teacher 1",
       "channelId": "UCrC8mOqJQpoB7NuIMKIS6rQ",
-      "keywords": ["#PRASHANTDHAWAN", "prashantdhawan", "PD10"]
+      "keywords": ["#PRASHANTDHAWAN", "", ""]
     },
     {
       "name": "Teacher 2",
       "image": "assets/teacher2.png",
       "description": "Description of Teacher 2",
       "channelId": "UCZINqCwuTRertJyDvHUSopA",
-      "keywords": ["Bharat Tak", "keyword5", "keyword6"]
+      "keywords": ["Bharat Tak", "", ""]
     },
     {
       "name": "Teacher 3",
