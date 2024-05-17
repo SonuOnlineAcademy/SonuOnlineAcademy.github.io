@@ -1,28 +1,25 @@
 {
   "teachers": [
     {
-      "name": "Rojgar with Ankit",
-      "image": "assets/ankit.png",
-      "description": "Learn from the best Rojgar with Ankit lectures.",
-      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOXC19Y3QXFjwBjcpYutPvVQ"
+      "name": "Prashant Dhawan",
+      "image": "assets/prashantsir.png",
+      "description": "Description of Teacher 1",
+      "channelId": "UCrC8mOqJQpoB7NuIMKIS6rQ",
+      "keywords": ["#PRASHANTDHAWAN", "prashantdhawan", "keyword3"]
     },
     {
-      "name": "Gyan Bindu",
-      "image": "assets/gyanbindu.png",
-      "description": "Explore the depths of knowledge with Gyan Bindu.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q"
+      "name": "Teacher 2",
+      "image": "assets/teacher2.png",
+      "description": "Description of Teacher 2",
+      "channelId": "CHANNEL_ID_2",
+      "keywords": ["keyword4", "keyword5", "keyword6"]
     },
     {
-      "name": "Kautilya",
-      "image": "assets/kautilya.png",
-      "description": "Unlock the secrets of ancient wisdom with Kautilya.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
-    },
-    {
-      "name": "Utkarsh",
-      "image": "assets/utkarsh.png",
-      "description": "Elevate your learning with Utkarsh.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+      "name": "Teacher 3",
+      "image": "assets/teacher3.png",
+      "description": "Description of Teacher 3",
+      "channelId": "CHANNEL_ID_3",
+      "keywords": ["keyword7", "keyword8", "keyword9"]
     }
   ]
 }
