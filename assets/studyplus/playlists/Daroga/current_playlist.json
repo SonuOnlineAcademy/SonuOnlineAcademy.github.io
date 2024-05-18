@@ -3,18 +3,18 @@
     {
       "name": "PW SSC",
       "image": "assets/pw.png",
-      "description": "Learn from the best Khan Academy lectures.",
+      "description": "Learn from the best PW SSC lectures.",
       "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORFc0wUQIX9PfTB0oNPbmSrQ"
     },
     {
       "name": "Parcham Classes",
       "image": "assets/parcham.png",
-      "description": "Explore the depths of knowledge with Gyan Bindu.",
+      "description": "Explore the depths of knowledge with Parcham classes.",
       "playlistUrl": "https://youtube.com/playlist?list=PLJ0PDUtEYgazFxbqwaCWsVc4RDJGGHYtz"
     },
     {
       "name": "Ada247",
-      "image": "assets/ada.png",
+      "image": "assets/ada247.png",
       "description": "Unlock the secrets of ancient wisdom with Ada247.",
       "playlistUrl": "https://youtube.com/playlist?list=PLQYgCxDYkIsx-uf2IXuKQpW6LolA_2aLti"
     },
