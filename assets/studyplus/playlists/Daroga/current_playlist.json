@@ -1,28 +1,28 @@
 {
   "teachers": [
     {
-      "name": "Prashant Dhawan sir",
-      "image": "assets/prashantsir.png",
+      "name": "PW SSC",
+      "image": "assets/pw.png",
       "description": "Learn from the best Khan Academy lectures.",
-      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR4kUxscwYwYGEmXi4D9Hro3"
+      "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORFc0wUQIX9PfTB0oNPbmSrQ"
     },
     {
-      "name": "Gyan Bindu",
-      "image": "assets/gyanbindu.png",
+      "name": "Parcham Classes",
+      "image": "assets/parcham.png",
       "description": "Explore the depths of knowledge with Gyan Bindu.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q"
+      "playlistUrl": "https://youtube.com/playlist?list=PLJ0PDUtEYgazFxbqwaCWsVc4RDJGGHYtz"
     },
     {
-      "name": "Kautilya",
-      "image": "assets/kautilya.png",
-      "description": "Unlock the secrets of ancient wisdom with Kautilya.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+      "name": "Ada247",
+      "image": "assets/ada.png",
+      "description": "Unlock the secrets of ancient wisdom with Ada247.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLQYgCxDYkIsx-uf2IXuKQpW6LolA_2aLti"
     },
     {
       "name": "Utkarsh",
       "image": "assets/utkarsh.png",
       "description": "Elevate your learning with Utkarsh.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSHFkZB5TAyWZmLHTM4z2wQO"
     }
   ]
 }
