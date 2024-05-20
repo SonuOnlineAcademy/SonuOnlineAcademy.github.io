@@ -1,0 +1,16 @@
+{
+  "Mathematics": {
+    "Khan": {
+      "image": "assets/khan.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV",
+      "description": "Learn from the best Khan Academy lectures."
+    },
+    "Gyan Bindu": {
+      "image": "assets/gyanbindu.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q",
+      "description": "Explore the depths of knowledge with Gyan Bindu."
+    }
+    // ... other teachers
+  },
+  // ... other subjects
+}
