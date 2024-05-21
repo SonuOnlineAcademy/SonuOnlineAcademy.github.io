@@ -1,262 +1,156 @@
 {
-      'Mathematics': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'Science': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'History': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'Polity': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'Economics': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'Reasoning': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'Geography': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'English': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'Hindi': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-      'General Knowledge': {
-        'Khan': {
-          'image': 'assets/khan.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV',
-          'description': 'Learn from the best Khan Academy lectures.',
-        },
-        'Gyan Bindu': {
-          'image': 'assets/gyanbindu.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q',
-          'description': 'Explore the depths of knowledge with Gyan Bindu.',
-        },
-        'Kautilya': {
-          'image': 'assets/kautilya.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Unlock the secrets of ancient wisdom with Kautilya.',
-        },
-        'Utkarsh': {
-          'image': 'assets/utkarsh.png',
-          'playlistUrl':
-              'https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji',
-          'description': 'Elevate your learning with Utkarsh.',
-        },
-      },
-    };
+  "Mathematics": {
+    "Khan": {
+      "image": "assets/khan.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV",
+      "description": "Learn from the best Khan Academy lectures."
+    },
+    "Gyan Bindu": {
+      "image": "assets/gyanbindu.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q",
+      "description": "Explore the depths of knowledge with Gyan Bindu."
+    },
+    "Kautilya": {
+      "image": "assets/kautilya.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya."
+    },
+    "Utkarsh": {
+      "image": "assets/utkarsh.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Elevate your learning with Utkarsh."
+    }
+  },
+  "Science": {
+    "Khan": {
+      "image": "assets/khan.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV",
+      "description": "Learn from the best Khan Academy lectures."
+    },
+    "Gyan Bindu": {
+      "image": "assets/gyanbindu.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q",
+      "description": "Explore the depths of knowledge with Gyan Bindu."
+    },
+    "Kautilya": {
+      "image": "assets/kautilya.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya."
+    },
+    "Utkarsh": {
+      "image": "assets/utkarsh.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Elevate your learning with Utkarsh."
+    }
+  },
+  "History": {
+    "Khan": {
+      "image": "assets/khan.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV",
+      "description": "Learn from the best Khan Academy lectures."
+    },
+    "Gyan Bindu": {
+      "image": "assets/gyanbindu.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q",
+      "description": "Explore the depths of knowledge with Gyan Bindu."
+    },
+    "Kautilya": {
+      "image": "assets/kautilya.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya."
+    },
+    "Utkarsh": {
+      "image": "assets/utkarsh.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Elevate your learning with Utkarsh."
+    }
+  },
+  "Polity": {
+    "Khan": {
+      "image": "assets/khan.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV",
+      "description": "Learn from the best Khan Academy lectures."
+    },
+    "Gyan Bindu": {
+      "image": "assets/gyanbindu.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q",
+      "description": "Explore the depths of knowledge with Gyan Bindu."
+    },
+    "Kautilya": {
+      "image": "assets/kautilya.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya."
+    },
+    "Utkarsh": {
+      "image": "assets/utkarsh.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Elevate your learning with Utkarsh."
+    }
+  },
+  "Economics": {
+    "Khan": {
+      "image": "assets/khan.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV",
+      "description": "Learn from the best Khan Academy lectures."
+    },
+    "Gyan Bindu": {
+      "image": "assets/gyanbindu.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q",
+      "description": "Explore the depths of knowledge with Gyan Bindu."
+    },
+    "Kautilya": {
+      "image": "assets/kautilya.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya."
+    },
+    "Utkarsh": {
+      "image": "assets/utkarsh.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Elevate your learning with Utkarsh."
+    }
+  },
+  "Reasoning": {
+    "Khan": {
+      "image": "assets/khan.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV",
+      "description": "Learn from the best Khan Academy lectures."
+    },
+    "Gyan Bindu": {
+      "image": "assets/gyanbindu.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q",
+      "description": "Explore the depths of knowledge with Gyan Bindu."
+    },
+    "Kautilya": {
+      "image": "assets/kautilya.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya."
+    },
+    "Utkarsh": {
+      "image": "assets/utkarsh.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Elevate your learning with Utkarsh."
+    }
+  },
+  "Geography": {
+    "Khan": {
+      "image": "assets/khan.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOXFpAa6bmwI1qZ0wOBlwwwV",
+      "description": "Learn from the best Khan Academy lectures."
+    },
+    "Gyan Bindu": {
+      "image": "assets/gyanbindu.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q",
+      "description": "Explore the depths of knowledge with Gyan Bindu."
+    },
+    "Kautilya": {
+      "image": "assets/kautilya.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya."
+    },
+    "Utkarsh": {
+      "image": "assets/utkarsh.png",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji",
+      "description": "Elevate your learning with Utkarsh."
+    }
+  }
+}
