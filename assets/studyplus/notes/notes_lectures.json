@@ -1,0 +1,26 @@
+{
+  "Math": {
+    "Rojgar with Ankit": ["Number system 1", "Number system 2", "Number system 3", "Number system 4"],
+    "Gyan Bindu": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Kautilya": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Utkarsh": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
+  },
+  "Science": {
+    "Khan": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Gyan Bindu": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Kautilya": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Utkarsh": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
+  },
+  "History": {
+    "Rojgar with Ankit": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Gyan Bindu": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Kautilya": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Utkarsh": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
+  },
+  "English": {
+    "Rojgar with Ankit": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Gyan Bindu": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Kautilya": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"],
+    "Utkarsh": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
+  }
+}
